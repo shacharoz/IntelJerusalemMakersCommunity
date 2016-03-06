@@ -4,29 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-.bg-red {
-    /*border-bottom: medium solid #8E0000;*/
-    border-left: 30px solid #8E0000;
-    
-}
-
-.bg-green {
-    /*border-bottom: medium solid #00B050; */
-    border-left: 30px solid #00B050;
-     
-}
-
-.bg-purple {
-    /*border-bottom: medium solid #7030A0; */
-    border-left: 30px solid #7030A0;
-     
-}
-
-.bg-dark-gray {
-    /*border-bottom: medium solid #8E8E9E;*/
-    border-left: 30px solid #8E8E9E;
-     
-}
 
 blockquote {
   background: #ececec;
@@ -317,7 +294,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-  background-image: url(../img/lectures/gershom.jpg);
+    background-image: url(http://placehold.it/3000x2000);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
